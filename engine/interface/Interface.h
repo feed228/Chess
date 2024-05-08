@@ -2,7 +2,7 @@
 #define _INTER_
 
 
-#include "../init.hpp"
+#include "../pakage/init.hpp"
 
 class Interface
 {
@@ -21,4 +21,3 @@ public:
 };
 
 #endif
-

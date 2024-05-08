@@ -1,9 +1,9 @@
 
-#include "source/Source.cpp"
+#include "engine/Window.cpp"
 
 int main()
 {
-    Source source;
-    source.start();
+    Window window;
+    window.start();
     return 0;
 }
