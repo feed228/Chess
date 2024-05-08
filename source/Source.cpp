@@ -2,7 +2,7 @@
 #include <iostream>
 Source::Source()
 {
-    window = new sf::RenderWindow(sf::VideoMode(this->width, this->height), "Network Petri"); //, sf::Style::None);
+    window = new sf::RenderWindow(sf::VideoMode(this->width, this->height), "Chess"); //, sf::Style::None);
     window->setFramerateLimit(this->fps);
 }
 ////////////////////////////////////////////////////////////////
