@@ -2,7 +2,7 @@
 #define _INTER_
 
 
-#include "../pakage/init.hpp"
+#include "../../pakage/init.hpp"
 
 class Interface
 {
