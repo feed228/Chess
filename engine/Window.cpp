@@ -1,5 +1,6 @@
 #include "Window.hpp"
 #include <iostream>
+
 Window::Window()
 {
     window = new sf::RenderWindow(sf::VideoMode(this->width, this->height), "Chess"); //, sf::Style::None);

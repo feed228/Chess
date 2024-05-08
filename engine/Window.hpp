@@ -5,7 +5,7 @@
 #include "../engine/interface/Interface.cpp"
 
 
-class Engine
+class Window
 {
 private:
     Interface interface;
@@ -24,8 +24,8 @@ private:
     void draw(sf::Event &event);
 
 public:
-    Engine();
-    ~Engine();
+    Window();
+    ~Window();
 
     int getWidth() { return this->width; }
     int getHeight() { return this->height; }
