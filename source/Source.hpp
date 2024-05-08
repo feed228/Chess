@@ -3,6 +3,10 @@
 
 #include "../pakage/init.hpp"
 #include "../pakage/interface/Interface.cpp"
+<<<<<<< HEAD
+=======
+
+>>>>>>> 32b231d54a72db07e40f5ee832f25a4bfadfcfde
 
 class Source
 {
